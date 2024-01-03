@@ -1,6 +1,9 @@
+// Problem Information
 // 17319. 문자열문자열
 // https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYgEiwbKy48DFARP
-// Authored by CarryKim
+
+
+// Code Authored by CarryKim
 
 #include<bits/stdc++.h>
 using namespace std;
