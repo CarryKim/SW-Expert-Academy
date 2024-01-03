@@ -2,7 +2,6 @@
 // 17319. 문자열문자열
 // https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYgEiwbKy48DFARP
 
-
 // Code Authored by CarryKim
 
 #include<bits/stdc++.h>
