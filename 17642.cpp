@@ -1,6 +1,8 @@
+// Problem Information
 // 17642. 최대 조작 횟수
 // https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&problemLevel=5&contestProbId=AYj_Dz-6qLgDFASl&categoryId=AYj_Dz-6qLgDFASl&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=2
-// Authored by CarryKim
+
+// Code Authored by CarryKim
 
 #include<bits/stdc++.h>
 using namespace std;
